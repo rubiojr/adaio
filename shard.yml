@@ -16,3 +16,7 @@ dependencies:
 #     github: manastech/webmock.cr
 
 license: MIT
+
+targets:
+  adaio:
+    main: examples/main.cr
