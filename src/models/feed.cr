@@ -11,9 +11,9 @@ module AdaIO
 
       property status : String
 
-      property created_at : String
+      property created_at : Time
 
-      property updated_at : String
+      property updated_at : Time
     end
   end
 end
