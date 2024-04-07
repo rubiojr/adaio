@@ -1,11 +1,11 @@
 name: adaio-cr
 version: 0.1.0
 
-# authors:
-#   - name <email@example.com>
+authors:
+  - Sergio Rubio <rubiojr@rbel.co>
 
-# description: |
-#   Short description of adaio-cr
+description: |
+  Adafruit IO client library
 
 dependencies:
   crest:
